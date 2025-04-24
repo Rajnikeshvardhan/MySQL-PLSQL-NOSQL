@@ -1,3 +1,4 @@
+-- [WHILE] Assign “Excellent” to students with marks > 85 in all courses in thegradestable.
 delimiter #
 create procedure assign()
 begin
