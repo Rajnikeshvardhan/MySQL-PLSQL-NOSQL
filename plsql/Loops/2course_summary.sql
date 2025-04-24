@@ -1,4 +1,4 @@
--- 2. [REPEAT] For each course, count the number of enrolled students and log it intoanew table course_summary.
+-- 2. [REPEAT] For each course, count the number of enrolled students and log it intoanew table course_summary. 
 delimiter //
 drop procedure if exists course_summary//
  create procedure course_summary()
